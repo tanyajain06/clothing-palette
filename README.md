@@ -2,6 +2,10 @@
 
 A web app that analyzes uploaded outfit photos and extracts the dominant clothing color palette while minimizing background influence using image segmentation.
 
+## Demo
+
+![App Demo](demo.png)
+
 ## Features
 
 - Upload an image (JPG, PNG)
